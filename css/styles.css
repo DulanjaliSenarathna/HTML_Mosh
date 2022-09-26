@@ -22,3 +22,25 @@ a:visited, a:link{
 a:hover, a:focus{
     color:deeppink;
 }
+
+p::first-letter{
+    font-size:140%;
+    font=weight:bold;
+}
+
+p::first-line{
+    font-style:italic;
+}
+
+::selection{
+    background-color:pink;
+}
+
+p::before{
+    content:'...';
+    display:block;
+}
+
+p::after{
+    content:'...'
+}

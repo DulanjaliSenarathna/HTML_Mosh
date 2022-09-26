@@ -3,6 +3,6 @@ body{
     margin:10px;
 }
 
-p{
+#products ~ p {
     color: orange;
 }

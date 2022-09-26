@@ -6,3 +6,19 @@ body{
 #products ~ p {
     color: orange;
 }
+
+article :last-child{
+font-weight:bold;
+}
+
+ul li:nth-child(odd){
+color:pink;
+}
+
+a:visited, a:link{
+    color:blue;
+}
+
+a:hover, a:focus{
+    color:deeppink;
+}

@@ -44,3 +44,22 @@ p::before{
 p::after{
     content:'...'
 }
+
+h1{
+    color:blue;
+}
+
+.highlight{
+    color:red;
+}
+
+#products{
+    color:green;
+}
+#products{
+    color:brown;
+}
+
+.art #products{
+    color:blue;
+}

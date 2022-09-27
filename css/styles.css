@@ -66,5 +66,6 @@ h1{
 .box{
     width:200px;
     height:200px;
-    background-color:rgba(230,205,16, .5);
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(245,198,5,0.7707457983193278) 47%, rgba(0,212,255,1) 100%);
 }

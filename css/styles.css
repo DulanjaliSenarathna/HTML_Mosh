@@ -46,7 +46,7 @@ p::after{
 }
 
 h1{
-    color:blue;
+    color:black;
 }
 
 .highlight{
@@ -66,9 +66,11 @@ h1{
 .box{
     width:200px;
     height:200px;
-    background: rgb(2,0,36);
+    background: rgb(2,0,36) ;
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(245,198,5,0.7707457983193278) 47%, rgba(0,212,255,1) 100%);
 border:10px dashed black;
 border-width: 10px 20px 10px ;
-border-radius: 100%;
+border-radius: 10%;
+box-shadow: 0 0 10px grey;
+text-shadow: 5px 5px 5px rgb(0,0,0,0.2);
 }

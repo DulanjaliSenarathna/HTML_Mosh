@@ -68,4 +68,7 @@ h1{
     height:200px;
     background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(245,198,5,0.7707457983193278) 47%, rgba(0,212,255,1) 100%);
+border:10px dashed black;
+border-width: 10px 20px 10px ;
+border-radius: 100%;
 }

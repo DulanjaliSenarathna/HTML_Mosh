@@ -63,3 +63,8 @@ h1{
 .art #products{
     color:blue;
 }
+.box{
+    width:200px;
+    height:200px;
+    background-color:rgba(230,205,16, .5);
+}
